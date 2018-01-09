@@ -68,10 +68,10 @@
 	if (typeof __vue_options__ === "function") {
 	  __vue_options__ = __vue_options__.options
 	}
-	__vue_options__.__file = "/home/lizejun/Repository/Weex/WeexApp/WeexPageDir/src/index.vue"
+	__vue_options__.__file = "/home/lizejun/Repository/Weex/WeexApp/WeexPageFolder/src/index.vue"
 	__vue_options__.render = __vue_template__.render
 	__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
-	__vue_options__._scopeId = "data-v-eab4212c"
+	__vue_options__._scopeId = "data-v-1af60391"
 	__vue_options__.style = __vue_options__.style || {}
 	__vue_styles__.forEach(function (module) {
 	  for (var name in module) {
@@ -120,7 +120,7 @@
 	exports.default = {
 	  data: function data() {
 	    return {
-	      text: 'First HaHa WeexPage'
+	      text: 'Hello World.'
 	    };
 	  }
 	};

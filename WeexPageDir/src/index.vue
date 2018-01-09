@@ -12,7 +12,7 @@
   export default {
     data () {
       return {
-        text: 'First WeexPage'
+        text: 'First HaHa WeexPage'
       }
     }
   }

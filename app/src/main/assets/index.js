@@ -120,7 +120,7 @@
 	exports.default = {
 	  data: function data() {
 	    return {
-	      text: 'First WeexPage'
+	      text: 'First HaHa WeexPage'
 	    };
 	  }
 	};
